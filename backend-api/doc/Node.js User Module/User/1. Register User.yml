@@ -1,0 +1,71 @@
+info:
+  name: 1. Register User
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: "{{baseUrl}}/api/users/register"
+  headers:
+    - name: Content-Type
+      value: application/json
+  body:
+    type: json
+    data: |-
+      {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password123"
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+  forwardAuthorizationHeader: false
+
+examples:
+  - name: example
+    request:
+      url: "{{baseUrl}}/api/users/register"
+      method: POST
+      headers:
+        - name: Content-Type
+          value: application/json
+      body:
+        type: json
+        data: |-
+          {
+            "name": "John Doe",
+            "email": "john@example.com",
+            "password": "password123"
+          }
+    response:
+      status: 201
+      statusText: Created
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "261"
+        - name: etag
+          value: W/"105-exYiPVgXx0E+0U4Se/Ykbvvz56o"
+        - name: date
+          value: Tue, 29 Sep 2026 05:57:19 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "_id": "6abb533fb67c1175037961ad",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYmI1MzNmYjY3YzExNzUwMzc5NjFhZCIsImlhdCI6MTc5MDY2MTQzOSwiZXhwIjoxNzkzMjUzNDM5fQ.lUOilTl_24zA52yMCg_ryoXiu9LW8sXDyln4Fp3yGyE"
+          }
