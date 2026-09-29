@@ -1,0 +1,52 @@
+info:
+  name: 1. Create Location
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: "{{baseUrl}}/api/v1/locations"
+  headers:
+    - name: Content-Type
+      value: application/json
+  body:
+    type: json
+    data: |-
+      {
+        "name": "Main Headquarters",
+        "description": "Central office building",
+        "category": "Building",
+        // "township": "REPLACE_WITH_TOWNSHIP_OBJECT_ID",
+        "address": {
+          "street": "123 Main St",
+          "city": "Yangon",
+          "zipCode": "11181",
+          "lat": 16.8,
+          "lng": 96.1
+        }
+      }
+  auth:
+    type: bearer
+    token: "{{token}}"
+
+runtime:
+  scripts:
+    - type: tests
+      code: |-
+        const body = res.getBody();
+
+        test("Location created successfully", function() {
+          expect(res.getStatus()).to.equal(201);
+          expect(body.status).to.be.true;
+        });
+
+        if (body.status === true && body.data) {
+          bru.setCollectionVar("locationId", body.data._id);
+        }
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+  forwardAuthorizationHeader: false

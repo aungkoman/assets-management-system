@@ -5,7 +5,7 @@ info:
 
 http:
   method: DELETE
-  url: "{{baseUrl}}/api/users/{{userId}}/hard-delete"
+  url: "{{baseUrl}}/api/v1/users/{{userId}}/hard-delete"
   auth:
     type: bearer
     token: "{{token}}"

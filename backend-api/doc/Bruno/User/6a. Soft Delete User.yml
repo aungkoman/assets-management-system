@@ -5,7 +5,7 @@ info:
 
 http:
   method: PATCH
-  url: "{{baseUrl}}/api/users/{{userId}}/soft-delete"
+  url: "{{baseUrl}}/api/v1/users/{{userId}}/soft-delete"
   auth:
     type: bearer
     token: "{{token}}"
