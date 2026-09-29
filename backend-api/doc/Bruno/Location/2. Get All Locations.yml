@@ -21,3 +21,61 @@ settings:
   followRedirects: true
   maxRedirects: 5
   forwardAuthorizationHeader: false
+
+examples:
+  - name: 200 - Success
+    request:
+      url: "{{baseUrl}}/api/v1/locations"
+      method: GET
+      params:
+        - name: category
+          value: Building
+          type: query
+          disabled: true
+    response:
+      status: 200
+      statusText: OK
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "436"
+        - name: etag
+          value: W/"1b4-MKE/7intc4/x2GdgS4nj3Kx2m7c"
+        - name: date
+          value: Tue, 29 Sep 2026 08:31:02 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": true,
+            "message": "Locations retrieved successfully",
+            "data": [
+              {
+                "address": {
+                  "street": "123 Main St",
+                  "city": "Yangon",
+                  "zipCode": "11181",
+                  "lat": 16.8,
+                  "lng": 96.1
+                },
+                "_id": "6abb6c2d96702fb3a8362bbb",
+                "name": "Main Headquarters",
+                "description": "Central office building",
+                "isDeleted": false,
+                "category": "Building",
+                "township": null,
+                "parentId": null,
+                "isActive": true,
+                "createdAt": "2026-09-29T07:43:41.740Z",
+                "updatedAt": "2026-09-29T07:43:41.740Z",
+                "__v": 0
+              }
+            ]
+          }

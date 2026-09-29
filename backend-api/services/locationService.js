@@ -1,3 +1,4 @@
+const Township = require('../models/Township'); // adjust path
 const Location = require('../models/Location'); // Adjust path based on your folder structure
 
 class LocationService {
