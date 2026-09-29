@@ -22,7 +22,7 @@ class LocationService {
     return await Location.find(query)
       // .populate('township', 'name description') // Adjust fields based on Township schema
       .populate({
-        path: 'township',
+        path: 'townshipId',
         populate: {
           path: 'region' // Deep populates the Region schema inside Township
         }
@@ -43,7 +43,7 @@ class LocationService {
           path: 'region' // Deep populates the Region schema inside Township
         }
       })
-      .populate('parentId');
+      .populate('parent');
       
     if (!location) throw new Error('Location not found');
     return location;

@@ -21,6 +21,7 @@ const regionSchema = new mongoose.Schema({
     type: String 
   }
 }, { timestamps: true });
+
 // Add this to format the JSON output
 regionSchema.set('toJSON', {
     virtuals: true, // Includes the virtual 'id' field

@@ -21,7 +21,7 @@ const locationSchema = new mongoose.Schema({
         ref: 'Township',
         default: null, // Ensures a township cannot be created without a parent region
     },
-    parentId: { 
+    parent: { 
         type: mongoose.Schema.Types.ObjectId, 
         ref: 'Location',
         default: null // If null, this is a top-level location (e.g., a Building)
@@ -39,6 +39,14 @@ const locationSchema = new mongoose.Schema({
     }
 
 }, { timestamps: true });
+
+// 2. The virtual field (only shows up when you use .populate('township'))
+locationSchema.virtual('township', {
+    ref: 'Township',
+    localField: 'townshipId',
+    foreignField: '_id',
+    justOne: true // Tells Mongoose it's a single object, not an array
+});
 
 // Add this to format the JSON output
 locationSchema.set('toJSON', {

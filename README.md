@@ -78,5 +78,11 @@ it's kind of seeder
 but we prefer manual import :D
 
 
+ကိုယ်ရင်းနှီးတဲ့ Pattern  
+
+even based on query
+if we populate it show obj, if not they return string,
+so as a clinet , we don't know what the type, it's kind of incosistency
+
 
 
