@@ -4,6 +4,27 @@ const userRoutes = require('./routes/userRoutes');
 const locationRoutes = require('./routes/locationRoutes');
 require('dotenv').config();
 
+// Apply toJSON transform to ALL schemas globally
+mongoose.set('toJSON', {
+    virtuals: true,
+    transform: (doc, ret) => {
+        delete ret._id;
+        delete ret.__v;
+        return ret;
+    }
+});
+
+// Same for toObject if you ever use .toObject() instead of .toJSON()
+mongoose.set('toObject', {
+    virtuals: true,
+    transform: (doc, ret) => {
+        delete ret._id;
+        delete ret.__v;
+        return ret;
+    }
+});
+
+
 const app = express();
 app.use(express.json());
 

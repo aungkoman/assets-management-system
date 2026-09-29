@@ -15,8 +15,9 @@ http:
       {
         "name": "Main Headquarters",
         "description": "Central office building",
-        "category": "Building"
-        // "township": "REPLACE_WITH_TOWNSHIP_OBJECT_ID",
+        "category": "Building",
+        "townshipId": "6abb75156d3437660b0fe958",
+        "parentId": "6abb862a0ee946f2c27d5582"
       //   "address": {
       //     "street": "123 Main St",
       //     "city": "Yangon",

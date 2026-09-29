@@ -1,3 +1,4 @@
+const Region = require('../models/Region'); // adjust path
 const Township = require('../models/Township'); // adjust path
 const Location = require('../models/Location'); // Adjust path based on your folder structure
 
@@ -19,7 +20,13 @@ class LocationService {
     const query = { isDeleted: false, ...filter };
     
     return await Location.find(query)
-      .populate('township', 'name description') // Adjust fields based on Township schema
+      // .populate('township', 'name description') // Adjust fields based on Township schema
+      .populate({
+        path: 'township',
+        populate: {
+          path: 'region' // Deep populates the Region schema inside Township
+        }
+      })
       .populate('parentId', 'name category')
       .sort({ createdAt: -1 });
   }
@@ -29,7 +36,13 @@ class LocationService {
    */
   static async getLocationById(id) {
     const location = await Location.findOne({ _id: id, isDeleted: false })
-      .populate('township')
+      // .populate('township')
+      .populate({
+        path: 'township',
+        populate: {
+          path: 'region' // Deep populates the Region schema inside Township
+        }
+      })
       .populate('parentId');
       
     if (!location) throw new Error('Location not found');

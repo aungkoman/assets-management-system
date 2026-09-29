@@ -16,7 +16,7 @@ const locationSchema = new mongoose.Schema({
     },
 
     // add Region Object / Foreign Key
-    township: {
+    townshipId: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Township',
         default: null, // Ensures a township cannot be created without a parent region

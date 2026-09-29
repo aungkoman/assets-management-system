@@ -22,8 +22,6 @@ request:
       value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYmI1ZmQ1MjBmMDllNTNmZTk3ZWJmYiIsImlhdCI6MTc5MDY2NDY2MSwiZXhwIjoxNzkzMjU2NjYxfQ.tzsJzuxTGlwkKMDpFwt-DkB8X2VAzpscXtfzLKzJybg
     - name: userId
       value: 6abb5fd520f09e53fe97ebfb
-    - name: locationId
-      value: 6abb836e8ac4c4a2386b55cb
 
 docs:
   content: API endpoints for the User Module (Register, Login, CRUD)

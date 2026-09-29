@@ -10,6 +10,11 @@ http:
     type: bearer
     token: "{{token}}"
 
+runtime:
+  variables:
+    - name: locationId
+      value: 6abb862a0ee946f2c27d5582
+
 settings:
   encodeUrl: true
   timeout: 0
