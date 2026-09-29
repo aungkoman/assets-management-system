@@ -71,3 +71,12 @@ Model
 
 
 
+--
+
+Let's import regions and township
+it's kind of seeder
+but we prefer manual import :D
+
+
+
+

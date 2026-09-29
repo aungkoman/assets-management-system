@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "code": "MMR001",
+  "name": "Kachin",
+  "nameMm": "ကချင်ပြည်နယ်"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "code": "MMR002",
+  "name": "Kayah",
+  "nameMm": "ကယားပြည်နယ်"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "code": "MMR003",
+  "name": "Kayin",
+  "nameMm": "ကရင်ပြည်နယ်"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "code": "MMR004",
+  "name": "Chin",
+  "nameMm": "ချင်းပြည်နယ်"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "code": "MMR005",
+  "name": "Sagaing",
+  "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "code": "MMR006",
+  "name": "Tanintharyi",
+  "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "code": "MMR007",
+  "name": "Bago (East)",
+  "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "code": "MMR008",
+  "name": "Bago (West)",
+  "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "code": "MMR009",
+  "name": "Magway",
+  "nameMm": "မကွေးတိုင်းဒေသကြီး"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "code": "MMR010",
+  "name": "Mandalay",
+  "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "code": "MMR011",
+  "name": "Mon",
+  "nameMm": "မွန်ပြည်နယ်"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "code": "MMR012",
+  "name": "Rakhine",
+  "nameMm": "ရခိုင်ပြည်နယ်"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "code": "MMR013",
+  "name": "Yangon",
+  "nameMm": "ရန်ကုန်ဒေသကြီး"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "code": "MMR014",
+  "name": "Shan (South)",
+  "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "code": "MMR015",
+  "name": "Shan (North)",
+  "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "code": "MMR016",
+  "name": "Shan (East)",
+  "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "code": "MMR017",
+  "name": "Ayeyarwady",
+  "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "code": "MMR018",
+  "name": "Nay Pyi Taw",
+  "nameMm": "နေပြည်တော်"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe955"
+  },
+  "code": "MMR111",
+  "name": "Bago",
+  "nameMm": "ပဲခူးတိုင်းဒေသကြီး"
+},
+{
+  "_id": {
+    "$oid": "6abb75036d3437660b0fe956"
+  },
+  "code": "MMR222",
+  "name": "Shan",
+  "nameMm": "ရှမ်းပြည်နယ်"
+}]

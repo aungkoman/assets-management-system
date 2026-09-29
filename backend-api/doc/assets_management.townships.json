@@ -1,0 +1,6764 @@
+[{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe958"
+  },
+  "name": "Bogale",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ဘိုကလေး",
+  "townshipCode": "MMR017024"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe959"
+  },
+  "name": "Danubyu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ဓနုဖြူ",
+  "townshipCode": "MMR017022"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe95a"
+  },
+  "name": "Dedaye",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ဒေးဒရဲ",
+  "townshipCode": "MMR017026"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe95b"
+  },
+  "name": "Einme",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "အိမ္မဲ",
+  "townshipCode": "MMR017015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe95c"
+  },
+  "name": "Hinthada",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ဟင်္သာတ",
+  "townshipCode": "MMR017008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe95d"
+  },
+  "name": "Ingapu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "အင်္ဂပူ",
+  "townshipCode": "MMR017013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe95e"
+  },
+  "name": "Kangyidaunt",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ကန်ကြီးထောင့်",
+  "townshipCode": "MMR017002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe95f"
+  },
+  "name": "Kyaiklat",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ကျိုက်လတ်",
+  "townshipCode": "MMR017025"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe960"
+  },
+  "name": "Kyangin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ကြံခင်း",
+  "townshipCode": "MMR017012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe961"
+  },
+  "name": "Kyaunggon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ကျောင်းကုန်း",
+  "townshipCode": "MMR017007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe962"
+  },
+  "name": "Kyonpyaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ကျုံပျော်",
+  "townshipCode": "MMR017005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe963"
+  },
+  "name": "Labutta",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "လပွတ္တာ",
+  "townshipCode": "MMR017016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe964"
+  },
+  "name": "Lemyethna",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "လေးမျက်နှာ",
+  "townshipCode": "MMR017010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe965"
+  },
+  "name": "Maubin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "မအူပင်",
+  "townshipCode": "MMR017019"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe966"
+  },
+  "name": "Mawlamyinegyun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "မော်လမြိုင်ကျွန်း",
+  "townshipCode": "MMR017018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe967"
+  },
+  "name": "Myanaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "မြန်အောင်",
+  "townshipCode": "MMR017011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe968"
+  },
+  "name": "Myaungmya",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "မြောင်းမြ",
+  "townshipCode": "MMR017014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe969"
+  },
+  "name": "Ngapudaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ငပုတော",
+  "townshipCode": "MMR017004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe96a"
+  },
+  "name": "Nyaungdon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ညောင်တုန်း",
+  "townshipCode": "MMR017021"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe96b"
+  },
+  "name": "Pantanaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ပန်းတနော်",
+  "townshipCode": "MMR017020"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe96c"
+  },
+  "name": "Pathein",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ပုသိမ်",
+  "townshipCode": "MMR017001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe96d"
+  },
+  "name": "Pyapon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ဖျာပုံ",
+  "townshipCode": "MMR017023"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe96e"
+  },
+  "name": "Thabaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "သာပေါင်း",
+  "townshipCode": "MMR017003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe96f"
+  },
+  "name": "Wakema",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ဝါးခယ်မ",
+  "townshipCode": "MMR017017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe970"
+  },
+  "name": "Yegyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ရေကြည်",
+  "townshipCode": "MMR017006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe971"
+  },
+  "name": "Zalun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe953"
+    },
+    "code": "MMR017",
+    "name": "Ayeyarwady",
+    "nameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe953"
+  },
+  "nameMm": "ဇလွန်",
+  "townshipCode": "MMR017009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe972"
+  },
+  "name": "Bago",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ပဲခူး",
+  "townshipCode": "MMR007001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe973"
+  },
+  "name": "Daik-U",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ဒိုက်ဦး",
+  "townshipCode": "MMR007007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe974"
+  },
+  "name": "Htantabin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ထန်းတပင်",
+  "townshipCode": "MMR007014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe975"
+  },
+  "name": "Kawa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ကဝ",
+  "townshipCode": "MMR007003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe976"
+  },
+  "name": "Kyaukkyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ကျောက်ကြီး",
+  "townshipCode": "MMR007011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe977"
+  },
+  "name": "Kyauktaga",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ကျောက်တံခါး",
+  "townshipCode": "MMR007006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe978"
+  },
+  "name": "Nyaunglebin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ညောင်လေးပင်",
+  "townshipCode": "MMR007005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe979"
+  },
+  "name": "Oktwin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "အုတ်တွင်း",
+  "townshipCode": "MMR007013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe97a"
+  },
+  "name": "Phyu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ဖြူး",
+  "townshipCode": "MMR007012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe97b"
+  },
+  "name": "Shwegyin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ရွှေကျင်",
+  "townshipCode": "MMR007008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe97c"
+  },
+  "name": "Taungoo",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "တောင်ငူ",
+  "townshipCode": "MMR007009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe97d"
+  },
+  "name": "Thanatpin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "သနပ်ပင်",
+  "townshipCode": "MMR007002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe97e"
+  },
+  "name": "Waw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ဝေါ",
+  "townshipCode": "MMR007004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe97f"
+  },
+  "name": "Yedashe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe949"
+    },
+    "code": "MMR007",
+    "name": "Bago (East)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe949"
+  },
+  "nameMm": "ရေတာရှည်",
+  "townshipCode": "MMR007010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe980"
+  },
+  "name": "Gyobingauk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "ကြို့ပင်ကောက်",
+  "townshipCode": "MMR008014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe981"
+  },
+  "name": "Letpadan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "လက်ပံတန်း",
+  "townshipCode": "MMR008008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe982"
+  },
+  "name": "Minhla",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "မင်းလှ",
+  "townshipCode": "MMR008009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe983"
+  },
+  "name": "Monyo",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "မိုးညို",
+  "townshipCode": "MMR008013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe984"
+  },
+  "name": "Nattalin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "နတ္တလင်း",
+  "townshipCode": "MMR008012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe985"
+  },
+  "name": "Okpho",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "အုတ်ဖို",
+  "townshipCode": "MMR008010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe986"
+  },
+  "name": "Padaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "ပန်းတောင်း",
+  "townshipCode": "MMR008003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe987"
+  },
+  "name": "Paukkhaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "ပေါက်ခေါင်း",
+  "townshipCode": "MMR008002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe988"
+  },
+  "name": "Paungde",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "ပေါင်းတည်",
+  "townshipCode": "MMR008004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe989"
+  },
+  "name": "Pyay",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "ပြည်",
+  "townshipCode": "MMR008001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe98a"
+  },
+  "name": "Shwedaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "ရွှေတောင်",
+  "townshipCode": "MMR008006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe98b"
+  },
+  "name": "Thayarwady",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "သာယာဝတီ",
+  "townshipCode": "MMR008007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe98c"
+  },
+  "name": "Thegon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "သဲကုန်း",
+  "townshipCode": "MMR008005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe98d"
+  },
+  "name": "Zigon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94a"
+    },
+    "code": "MMR008",
+    "name": "Bago (West)",
+    "nameMm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94a"
+  },
+  "nameMm": "ဇီးကုန်း",
+  "townshipCode": "MMR008011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe98e"
+  },
+  "name": "Falam",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "ဖလမ်း",
+  "townshipCode": "MMR004001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe98f"
+  },
+  "name": "Hakha",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "ဟားခါး",
+  "townshipCode": "MMR004002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe990"
+  },
+  "name": "Kanpetlet",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "ကန်ပက်လက်",
+  "townshipCode": "MMR004008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe991"
+  },
+  "name": "Matupi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "မတူပီ",
+  "townshipCode": "MMR004007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe992"
+  },
+  "name": "Mindat",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "မင်းတပ်",
+  "townshipCode": "MMR004006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe993"
+  },
+  "name": "Paletwa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "ပလက်ဝ",
+  "townshipCode": "MMR004009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe994"
+  },
+  "name": "Tedim",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "တီးတိန်",
+  "townshipCode": "MMR004004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe995"
+  },
+  "name": "Thantlang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "ထန်တလန်",
+  "townshipCode": "MMR004003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe996"
+  },
+  "name": "Tonzang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe946"
+    },
+    "code": "MMR004",
+    "name": "Chin",
+    "nameMm": "ချင်းပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe946"
+  },
+  "nameMm": "တွန်းဇံ",
+  "townshipCode": "MMR004005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe997"
+  },
+  "name": "Bhamo",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ဗန်းမော်",
+  "townshipCode": "MMR001010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe998"
+  },
+  "name": "Chipwi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ချီဗွေ",
+  "townshipCode": "MMR001005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe999"
+  },
+  "name": "Hpakant",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ဖားကန့်",
+  "townshipCode": "MMR001009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe99a"
+  },
+  "name": "Injangyang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "အင်ဂျန်းယန်",
+  "townshipCode": "MMR001003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe99b"
+  },
+  "name": "Khaunglanhpu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ခေါင်လန်ဖူး",
+  "townshipCode": "MMR001018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe99c"
+  },
+  "name": "Machanbaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "မချမ်းဘော",
+  "townshipCode": "MMR001016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe99d"
+  },
+  "name": "Mansi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "မန်စီ",
+  "townshipCode": "MMR001013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe99e"
+  },
+  "name": "Mogaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "မိုးကောင်း",
+  "townshipCode": "MMR001008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe99f"
+  },
+  "name": "Mohnyin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "မိုးညှင်း",
+  "townshipCode": "MMR001007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a0"
+  },
+  "name": "Momauk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "မိုးမောက်",
+  "townshipCode": "MMR001012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a1"
+  },
+  "name": "Myitkyina",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "မြစ်ကြီးနား",
+  "townshipCode": "MMR001001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a2"
+  },
+  "name": "Nawngmun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "နောင်မွန်း",
+  "townshipCode": "MMR001017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a3"
+  },
+  "name": "Puta-O",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ပူတာအို",
+  "townshipCode": "MMR001014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a4"
+  },
+  "name": "Shwegu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ရွှေကူ",
+  "townshipCode": "MMR001011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a5"
+  },
+  "name": "Sumprabum",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ဆွမ်ပရာဘွမ်",
+  "townshipCode": "MMR001015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a6"
+  },
+  "name": "Tanai",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "တနိုင်း",
+  "townshipCode": "MMR001004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a7"
+  },
+  "name": "Tsawlaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ဆော့လော်",
+  "townshipCode": "MMR001006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a8"
+  },
+  "name": "Waingmaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe943"
+    },
+    "code": "MMR001",
+    "name": "Kachin",
+    "nameMm": "ကချင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe943"
+  },
+  "nameMm": "ဝိုင်းမော်",
+  "townshipCode": "MMR001002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9a9"
+  },
+  "name": "Bawlake",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe944"
+    },
+    "code": "MMR002",
+    "name": "Kayah",
+    "nameMm": "ကယားပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "nameMm": "ဘောလခဲ",
+  "townshipCode": "MMR002005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9aa"
+  },
+  "name": "Demoso",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe944"
+    },
+    "code": "MMR002",
+    "name": "Kayah",
+    "nameMm": "ကယားပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "nameMm": "ဒီမောဆို",
+  "townshipCode": "MMR002002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ab"
+  },
+  "name": "Hpasawng",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe944"
+    },
+    "code": "MMR002",
+    "name": "Kayah",
+    "nameMm": "ကယားပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "nameMm": "ဖားဆောင်း",
+  "townshipCode": "MMR002006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ac"
+  },
+  "name": "Hpruso",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe944"
+    },
+    "code": "MMR002",
+    "name": "Kayah",
+    "nameMm": "ကယားပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "nameMm": "ဖရူဆို",
+  "townshipCode": "MMR002003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ad"
+  },
+  "name": "Loikaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe944"
+    },
+    "code": "MMR002",
+    "name": "Kayah",
+    "nameMm": "ကယားပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "nameMm": "လွိုင်ကော်",
+  "townshipCode": "MMR002001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ae"
+  },
+  "name": "Mese",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe944"
+    },
+    "code": "MMR002",
+    "name": "Kayah",
+    "nameMm": "ကယားပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "nameMm": "မယ်စဲ့",
+  "townshipCode": "MMR002007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9af"
+  },
+  "name": "Shadaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe944"
+    },
+    "code": "MMR002",
+    "name": "Kayah",
+    "nameMm": "ကယားပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe944"
+  },
+  "nameMm": "ရှားတော",
+  "townshipCode": "MMR002004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b0"
+  },
+  "name": "Hlaingbwe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe945"
+    },
+    "code": "MMR003",
+    "name": "Kayin",
+    "nameMm": "ကရင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "nameMm": "လှိုင်းဘွဲ့",
+  "townshipCode": "MMR003002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b1"
+  },
+  "name": "Hpa-An",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe945"
+    },
+    "code": "MMR003",
+    "name": "Kayin",
+    "nameMm": "ကရင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "nameMm": "ဘားအံ",
+  "townshipCode": "MMR003001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b2"
+  },
+  "name": "Hpapun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe945"
+    },
+    "code": "MMR003",
+    "name": "Kayin",
+    "nameMm": "ကရင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "nameMm": "ဖာပွန်",
+  "townshipCode": "MMR003003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b3"
+  },
+  "name": "Kawkareik",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe945"
+    },
+    "code": "MMR003",
+    "name": "Kayin",
+    "nameMm": "ကရင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "nameMm": "ကော့ကရိတ်",
+  "townshipCode": "MMR003006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b4"
+  },
+  "name": "Kyainseikgyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe945"
+    },
+    "code": "MMR003",
+    "name": "Kayin",
+    "nameMm": "ကရင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "nameMm": "ကြာအင်းဆိပ်ကြီး",
+  "townshipCode": "MMR003007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b5"
+  },
+  "name": "Myawaddy",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe945"
+    },
+    "code": "MMR003",
+    "name": "Kayin",
+    "nameMm": "ကရင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "nameMm": "မြဝတီ",
+  "townshipCode": "MMR003005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b6"
+  },
+  "name": "Thandaunggyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe945"
+    },
+    "code": "MMR003",
+    "name": "Kayin",
+    "nameMm": "ကရင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe945"
+  },
+  "nameMm": "သံတောင်ကြီး",
+  "townshipCode": "MMR003004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b7"
+  },
+  "name": "Aunglan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "အောင်လံ",
+  "townshipCode": "MMR009016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b8"
+  },
+  "name": "Chauk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ချောက်",
+  "townshipCode": "MMR009003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9b9"
+  },
+  "name": "Gangaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ဂန့်ဂေါ",
+  "townshipCode": "MMR009023"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ba"
+  },
+  "name": "Kamma",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ကံမ",
+  "townshipCode": "MMR009015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9bb"
+  },
+  "name": "Magway",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "မကွေး",
+  "townshipCode": "MMR009001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9bc"
+  },
+  "name": "Minbu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "မင်းဘူး",
+  "townshipCode": "MMR009007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9bd"
+  },
+  "name": "Mindon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "မင်းတုန်း",
+  "townshipCode": "MMR009014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9be"
+  },
+  "name": "Minhla",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "မင်းလှ",
+  "townshipCode": "MMR009013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9bf"
+  },
+  "name": "Myaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "မြိုင်",
+  "townshipCode": "MMR009020"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c0"
+  },
+  "name": "Myothit",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "မြို့သစ်",
+  "townshipCode": "MMR009005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c1"
+  },
+  "name": "Natmauk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "နတ်မောက်",
+  "townshipCode": "MMR009006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c2"
+  },
+  "name": "Ngape",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ငဖဲ",
+  "townshipCode": "MMR009009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c3"
+  },
+  "name": "Pakokku",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ပခုက္ကူ",
+  "townshipCode": "MMR009018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c4"
+  },
+  "name": "Pauk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ပေါက်",
+  "townshipCode": "MMR009021"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c5"
+  },
+  "name": "Pwintbyu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ပွင့်ဖြူ",
+  "townshipCode": "MMR009008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c6"
+  },
+  "name": "Salin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "စလင်း",
+  "townshipCode": "MMR009010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c7"
+  },
+  "name": "Saw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ဆော",
+  "townshipCode": "MMR009025"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c8"
+  },
+  "name": "Seikphyu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ဆိပ်ဖြူ",
+  "townshipCode": "MMR009022"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9c9"
+  },
+  "name": "Sidoktaya",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "စေတုတ္တရာ",
+  "townshipCode": "MMR009011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ca"
+  },
+  "name": "Sinbaungwe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ဆင်ပေါင်ဝဲ",
+  "townshipCode": "MMR009017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9cb"
+  },
+  "name": "Taungdwingyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "တောင်တွင်းကြီး",
+  "townshipCode": "MMR009004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9cc"
+  },
+  "name": "Thayet",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "သရက်",
+  "townshipCode": "MMR009012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9cd"
+  },
+  "name": "Tilin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ထီးလင်း",
+  "townshipCode": "MMR009024"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ce"
+  },
+  "name": "Yenangyaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ရေနံချောင်း",
+  "townshipCode": "MMR009002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9cf"
+  },
+  "name": "Yesagyo",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94b"
+    },
+    "code": "MMR009",
+    "name": "Magway",
+    "nameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94b"
+  },
+  "nameMm": "ရေစကြို",
+  "townshipCode": "MMR009019"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d0"
+  },
+  "name": "Amarapura",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "အမရပူရ",
+  "townshipCode": "MMR010006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d1"
+  },
+  "name": "Aungmyaythazan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "အောင်မြေသာဇံ",
+  "townshipCode": "MMR010001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d2"
+  },
+  "name": "Chanayethazan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ချမ်းအေးသာဇံ",
+  "townshipCode": "MMR010002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d3"
+  },
+  "name": "Chanmyathazi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ချမ်းမြသာစည်",
+  "townshipCode": "MMR010004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d4"
+  },
+  "name": "Kyaukpadaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ကျောက်ပန်းတောင်း",
+  "townshipCode": "MMR010020"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d5"
+  },
+  "name": "Kyaukse",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ကျောက်ဆည်",
+  "townshipCode": "MMR010013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d6"
+  },
+  "name": "Madaya",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "မတ္တရာ",
+  "townshipCode": "MMR010009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d7"
+  },
+  "name": "Mahaaungmyay",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "မဟာအောင်မြေ",
+  "townshipCode": "MMR010003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d8"
+  },
+  "name": "Mahlaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "မလှိုင်",
+  "townshipCode": "MMR010029"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9d9"
+  },
+  "name": "Meiktila",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "မိတ္ထီလာ",
+  "townshipCode": "MMR010028"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9da"
+  },
+  "name": "Mogoke",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "မိုးကုတ်",
+  "townshipCode": "MMR010011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9db"
+  },
+  "name": "Myingyan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "မြင်းခြံ",
+  "townshipCode": "MMR010017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9dc"
+  },
+  "name": "Myittha",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "မြစ်သား",
+  "townshipCode": "MMR010015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9dd"
+  },
+  "name": "Natogyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "နွားထိုးကြီး",
+  "townshipCode": "MMR010019"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9de"
+  },
+  "name": "Ngazun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ငါန်းဇွန်",
+  "townshipCode": "MMR010021"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9df"
+  },
+  "name": "Nyaung-U",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ညောင်ဦး",
+  "townshipCode": "MMR010022"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e0"
+  },
+  "name": "Patheingyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ပုသိမ်ကြီး",
+  "townshipCode": "MMR010007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e1"
+  },
+  "name": "Pyawbwe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ပျော်ဘွယ်",
+  "townshipCode": "MMR010024"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e2"
+  },
+  "name": "Pyigyitagon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ပြည်ကြီးတံခွန်",
+  "townshipCode": "MMR010005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e3"
+  },
+  "name": "Pyinoolwin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ပြင်ဦးလွင်",
+  "townshipCode": "MMR010008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e4"
+  },
+  "name": "Singu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "စဉ့်ကူး",
+  "townshipCode": "MMR010010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e5"
+  },
+  "name": "Sintgaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "စဉ့်ကိုင်",
+  "townshipCode": "MMR010014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e6"
+  },
+  "name": "Tada-U",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "တံတားဦး",
+  "townshipCode": "MMR010016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e7"
+  },
+  "name": "Taungtha",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "တောင်သာ",
+  "townshipCode": "MMR010018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e8"
+  },
+  "name": "Thabeikkyin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "သပိတ်ကျဉ်း",
+  "townshipCode": "MMR010012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9e9"
+  },
+  "name": "Thazi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "သာစည်",
+  "townshipCode": "MMR010030"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ea"
+  },
+  "name": "Wundwin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ဝမ်းတွင်း",
+  "townshipCode": "MMR010031"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9eb"
+  },
+  "name": "Yamethin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94c"
+    },
+    "code": "MMR010",
+    "name": "Mandalay",
+    "nameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94c"
+  },
+  "nameMm": "ရမည်းသင်း",
+  "townshipCode": "MMR010023"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ec"
+  },
+  "name": "Bilin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "ဘီးလင်း",
+  "townshipCode": "MMR011010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ed"
+  },
+  "name": "Chaungzon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "ချောင်းဆုံ",
+  "townshipCode": "MMR011003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ee"
+  },
+  "name": "Kyaikmaraw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "ကျိုက္မရော",
+  "townshipCode": "MMR011002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ef"
+  },
+  "name": "Kyaikto",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "ကျိုက်ထို",
+  "townshipCode": "MMR011009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f0"
+  },
+  "name": "Mawlamyine",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "မော်လမြိုင်",
+  "townshipCode": "MMR011001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f1"
+  },
+  "name": "Mudon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "မုဒုံ",
+  "townshipCode": "MMR011005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f2"
+  },
+  "name": "Paung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "ပေါင်",
+  "townshipCode": "MMR011008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f3"
+  },
+  "name": "Thanbyuzayat",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "သံဖြူဇရပ်",
+  "townshipCode": "MMR011004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f4"
+  },
+  "name": "Thaton",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "သထုံ",
+  "townshipCode": "MMR011007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f5"
+  },
+  "name": "Ye",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94d"
+    },
+    "code": "MMR011",
+    "name": "Mon",
+    "nameMm": "မွန်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94d"
+  },
+  "nameMm": "ရေး",
+  "townshipCode": "MMR011006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f6"
+  },
+  "name": "Det Khi Na Thi Ri",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "ဒက္ခိဏသီရိ",
+  "townshipCode": "MMR018004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f7"
+  },
+  "name": "Lewe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "လယ်ဝေး",
+  "townshipCode": "MMR018007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f8"
+  },
+  "name": "Oke Ta Ra Thi Ri",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "ဥတ္တရသီရိ",
+  "townshipCode": "MMR018008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9f9"
+  },
+  "name": "Poke Ba Thi Ri",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "ပုဗ္ဗသီရိ",
+  "townshipCode": "MMR018005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9fa"
+  },
+  "name": "Pyinmana",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "ပျဉ်းမနား",
+  "townshipCode": "MMR018006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9fb"
+  },
+  "name": "Tatkon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "တပ်ကုန်း",
+  "townshipCode": "MMR018003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9fc"
+  },
+  "name": "Za Bu Thi Ri",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "ဇမ္ဗူသီရိ",
+  "townshipCode": "MMR018002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9fd"
+  },
+  "name": "Zay Yar Thi Ri",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe954"
+    },
+    "code": "MMR018",
+    "name": "Nay Pyi Taw",
+    "nameMm": "နေပြည်တော်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe954"
+  },
+  "nameMm": "ဇေယျာသီရိ",
+  "townshipCode": "MMR018001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9fe"
+  },
+  "name": "Ann",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "အမ်း",
+  "townshipCode": "MMR012014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fe9ff"
+  },
+  "name": "Buthidaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ဘူးသီးတောင်",
+  "townshipCode": "MMR012010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea00"
+  },
+  "name": "Gwa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ဂွ",
+  "townshipCode": "MMR012017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea01"
+  },
+  "name": "Kyaukpyu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ကျောက်ဖြူ",
+  "townshipCode": "MMR012011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea02"
+  },
+  "name": "Kyauktaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ကျောက်တော်",
+  "townshipCode": "MMR012004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea03"
+  },
+  "name": "Maungdaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "မောင်တော",
+  "townshipCode": "MMR012009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea04"
+  },
+  "name": "Minbya",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "မင်းပြား",
+  "townshipCode": "MMR012005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea05"
+  },
+  "name": "Mrauk-U",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "မြောက်ဦး",
+  "townshipCode": "MMR012003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea06"
+  },
+  "name": "Munaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "မာန်အောင်",
+  "townshipCode": "MMR012012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea07"
+  },
+  "name": "Myebon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "မြေပုံ",
+  "townshipCode": "MMR012006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea08"
+  },
+  "name": "Pauktaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ပေါက်တော",
+  "townshipCode": "MMR012007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea09"
+  },
+  "name": "Ponnagyun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ပုဏ္ဏားကျွန်း",
+  "townshipCode": "MMR012002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea0a"
+  },
+  "name": "Ramree",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ရမ်းဗြဲ",
+  "townshipCode": "MMR012013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea0b"
+  },
+  "name": "Rathedaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "ရသေ့တောင်",
+  "townshipCode": "MMR012008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea0c"
+  },
+  "name": "Sittwe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "စစ်တွေ",
+  "townshipCode": "MMR012001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea0d"
+  },
+  "name": "Thandwe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "သံတွဲ",
+  "townshipCode": "MMR012015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea0e"
+  },
+  "name": "Toungup",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94e"
+    },
+    "code": "MMR012",
+    "name": "Rakhine",
+    "nameMm": "ရခိုင်ပြည်နယ်"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94e"
+  },
+  "nameMm": "တောင်ကုတ်",
+  "townshipCode": "MMR012016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea0f"
+  },
+  "name": "Ayadaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "အရာတော်",
+  "townshipCode": "MMR005014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea10"
+  },
+  "name": "Banmauk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဗန်းမောက်",
+  "townshipCode": "MMR005023"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea11"
+  },
+  "name": "Budalin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဘုတလင်",
+  "townshipCode": "MMR005013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea12"
+  },
+  "name": "Chaung-U",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ချောင်းဦး",
+  "townshipCode": "MMR005015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea13"
+  },
+  "name": "Hkamti",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ခန္တီး",
+  "townshipCode": "MMR005033"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea14"
+  },
+  "name": "Homalin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဟုမ္မလင်း",
+  "townshipCode": "MMR005034"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea15"
+  },
+  "name": "Indaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "အင်းတော်",
+  "townshipCode": "MMR005021"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea16"
+  },
+  "name": "Kale",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ကလေး",
+  "townshipCode": "MMR005027"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea17"
+  },
+  "name": "Kalewa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ကလေးဝ",
+  "townshipCode": "MMR005028"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea18"
+  },
+  "name": "Kanbalu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ကန့်ဘလူ",
+  "townshipCode": "MMR005007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea19"
+  },
+  "name": "Kani",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ကနီ",
+  "townshipCode": "MMR005017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea1a"
+  },
+  "name": "Katha",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ကသာ",
+  "townshipCode": "MMR005020"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea1b"
+  },
+  "name": "Kawlin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ကောလင်း",
+  "townshipCode": "MMR005024"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea1c"
+  },
+  "name": "Khin-U",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ခင်ဦး",
+  "townshipCode": "MMR005005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea1d"
+  },
+  "name": "Kyunhla",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ကျွန်းလှ",
+  "townshipCode": "MMR005008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea1e"
+  },
+  "name": "Lahe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "လဟယ်",
+  "townshipCode": "MMR005036"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea1f"
+  },
+  "name": "Lay Shi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "လေရှီး",
+  "townshipCode": "MMR005035"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea20"
+  },
+  "name": "Mawlaik",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "မော်လိုက်",
+  "townshipCode": "MMR005031"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea21"
+  },
+  "name": "Mingin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "မင်းကင်း",
+  "townshipCode": "MMR005029"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea22"
+  },
+  "name": "Monywa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "မုံရွာ",
+  "townshipCode": "MMR005012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea23"
+  },
+  "name": "Myaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "မြောင်",
+  "townshipCode": "MMR005003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea24"
+  },
+  "name": "Myinmu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "မြင်းမူ",
+  "townshipCode": "MMR005002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea25"
+  },
+  "name": "Nanyun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "နန်းယွန်း",
+  "townshipCode": "MMR005037"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea26"
+  },
+  "name": "Pale",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ပုလဲ",
+  "townshipCode": "MMR005019"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea27"
+  },
+  "name": "Paungbyin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဖေါင်းပြင်",
+  "townshipCode": "MMR005032"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea28"
+  },
+  "name": "Pinlebu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ပင်လည်ဘူး",
+  "townshipCode": "MMR005026"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea29"
+  },
+  "name": "Sagaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "စစ်ကိုင်း",
+  "townshipCode": "MMR005001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea2a"
+  },
+  "name": "Salingyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဆားလင်းကြီး",
+  "townshipCode": "MMR005018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea2b"
+  },
+  "name": "Shwebo",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ရွှေဘို",
+  "townshipCode": "MMR005004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea2c"
+  },
+  "name": "Tabayin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဒီပဲယင်း",
+  "townshipCode": "MMR005010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea2d"
+  },
+  "name": "Tamu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "တမူး",
+  "townshipCode": "MMR005030"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea2e"
+  },
+  "name": "Taze",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "တန့်ဆည်",
+  "townshipCode": "MMR005011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea2f"
+  },
+  "name": "Tigyaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ထီးချိုင့်",
+  "townshipCode": "MMR005022"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea30"
+  },
+  "name": "Wetlet",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဝက်လက်",
+  "townshipCode": "MMR005006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea31"
+  },
+  "name": "Wuntho",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ဝန်းသို",
+  "townshipCode": "MMR005025"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea32"
+  },
+  "name": "Ye-U",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ရေဦး",
+  "townshipCode": "MMR005009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea33"
+  },
+  "name": "Yinmarbin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe947"
+    },
+    "code": "MMR005",
+    "name": "Sagaing",
+    "nameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe947"
+  },
+  "nameMm": "ယင်းမာပင်",
+  "townshipCode": "MMR005016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea34"
+  },
+  "name": "Ho Tawng (Ho Tao)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "ဟိုတောင်း",
+  "townshipCode": "MMR016320"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea35"
+  },
+  "name": "Kengtung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "ကျိုင်းတုံ",
+  "townshipCode": "MMR016001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea36"
+  },
+  "name": "Mong Hpen",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းဖျန်",
+  "townshipCode": "MMR016319"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea37"
+  },
+  "name": "Mong Kar",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းကာ",
+  "townshipCode": "MMR016322"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea38"
+  },
+  "name": "Mong Pawk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းပေါက်",
+  "townshipCode": "MMR016321"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea39"
+  },
+  "name": "Monghpyak",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းဖြတ်",
+  "townshipCode": "MMR016010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea3a"
+  },
+  "name": "Monghsat",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းဆတ်",
+  "townshipCode": "MMR016006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea3b"
+  },
+  "name": "Mongkhet",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းခတ်",
+  "townshipCode": "MMR016002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea3c"
+  },
+  "name": "Mongla",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းလား",
+  "townshipCode": "MMR016005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea3d"
+  },
+  "name": "Mongping",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းပျင်း",
+  "townshipCode": "MMR016007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea3e"
+  },
+  "name": "Mongton",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းတုံ",
+  "townshipCode": "MMR016008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea3f"
+  },
+  "name": "Mongyang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းယန်း",
+  "townshipCode": "MMR016003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea40"
+  },
+  "name": "Mongyawng",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "မိုင်းယောင်း",
+  "townshipCode": "MMR016011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea41"
+  },
+  "name": "Nam Hpai",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "နမ့်ဖိုင်",
+  "townshipCode": "MMR016323"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea42"
+  },
+  "name": "Tachileik",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe952"
+    },
+    "code": "MMR016",
+    "name": "Shan (East)",
+    "nameMm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe952"
+  },
+  "nameMm": "တာချီလိတ်",
+  "townshipCode": "MMR016009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea43"
+  },
+  "name": "Aik Chan (Ai' Chun)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "အိုက်ချန်",
+  "townshipCode": "MMR015311"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea44"
+  },
+  "name": "Chinshwehaw Sub-township (Kokang SAZ)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ချင်းရွှေဟော်မြို့နယ်ခွဲ (အထူးဒေသ ၁)",
+  "townshipCode": "MMR015203"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea45"
+  },
+  "name": "Hkun Mar (Hkwin Ma)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ခွန်းမား",
+  "townshipCode": "MMR015306"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea46"
+  },
+  "name": "Hopang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ဟိုပန်",
+  "townshipCode": "MMR015021"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea47"
+  },
+  "name": "Hsawng Hpa (Saun Pha)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ဆောင်ဖ",
+  "townshipCode": "MMR015305"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea48"
+  },
+  "name": "Hseni",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "သိန်းနီ",
+  "townshipCode": "MMR015002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea49"
+  },
+  "name": "Hsipaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "သီပေါ",
+  "townshipCode": "MMR015014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea4a"
+  },
+  "name": "Ka Lawng Hpar",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ကလောင်ဖါ",
+  "townshipCode": "MMR015310"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea4b"
+  },
+  "name": "Kawng Min Hsang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ကောင်မင်ဆန်း",
+  "townshipCode": "MMR015304"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea4c"
+  },
+  "name": "Konkyan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ကုန်းကြမ်း",
+  "townshipCode": "MMR015023"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea4d"
+  },
+  "name": "Konkyan (Kokang SAZ)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ကုန်းကြမ်း (အထူးဒေသ ၁)",
+  "townshipCode": "MMR015201"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea4e"
+  },
+  "name": "Kunlong",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ကွမ်းလုံ",
+  "townshipCode": "MMR015020"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea4f"
+  },
+  "name": "Kutkai",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ကွတ်ခိုင်",
+  "townshipCode": "MMR015011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea50"
+  },
+  "name": "Kyaukme",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ကျောက်မဲ",
+  "townshipCode": "MMR015012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea51"
+  },
+  "name": "Lashio",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "လားရှိုး",
+  "townshipCode": "MMR015001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea52"
+  },
+  "name": "Laukkaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "လောက်ကိုင်",
+  "townshipCode": "MMR015022"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea53"
+  },
+  "name": "Laukkaing (Kokang SAZ)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "လောက်ကိုင် (အထူးဒေသ ၁)",
+  "townshipCode": "MMR015202"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea54"
+  },
+  "name": "Lin Haw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "လင်ဟော်",
+  "townshipCode": "MMR015309"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea55"
+  },
+  "name": "Long Htan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "လုံထန်",
+  "townshipCode": "MMR015307"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea56"
+  },
+  "name": "Mabein",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မဘိမ်း",
+  "townshipCode": "MMR015018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea57"
+  },
+  "name": "Man Man Hseng",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မန်မန်ဆိုင်",
+  "townshipCode": "MMR015313"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea58"
+  },
+  "name": "Man Tun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မန်တွန်း",
+  "townshipCode": "MMR015303"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea59"
+  },
+  "name": "Manton",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မန်တုန်",
+  "townshipCode": "MMR015019"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea5a"
+  },
+  "name": "Matman",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မက်မန်း",
+  "townshipCode": "MMR015024"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea5b"
+  },
+  "name": "Mongmao",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မိုင်းမော",
+  "townshipCode": "MMR015008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea5c"
+  },
+  "name": "Mongmit",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မိုးမိတ်",
+  "townshipCode": "MMR015017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea5d"
+  },
+  "name": "Mongyai",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မိုင်းရယ်",
+  "townshipCode": "MMR015003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea5e"
+  },
+  "name": "Muse",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "မူဆယ်",
+  "townshipCode": "MMR015009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea5f"
+  },
+  "name": "Nam Hkam Wu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နမ်ခမ်းဝူး",
+  "townshipCode": "MMR015315"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea60"
+  },
+  "name": "Nam Tit",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နမ့် တစ်",
+  "townshipCode": "MMR015301"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea61"
+  },
+  "name": "Namhkan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နမ့်ခမ်း",
+  "townshipCode": "MMR015010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea62"
+  },
+  "name": "Namhsan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နမ့်ဆန်",
+  "townshipCode": "MMR015016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea63"
+  },
+  "name": "Namtu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နမ္မတူ",
+  "townshipCode": "MMR015015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea64"
+  },
+  "name": "Nar Kawng",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နားကောင်",
+  "townshipCode": "MMR015316"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea65"
+  },
+  "name": "Nar Wee (Na Wi)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နာဝီး",
+  "townshipCode": "MMR015302"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea66"
+  },
+  "name": "Narphan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နားဖန့်",
+  "townshipCode": "MMR015006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea67"
+  },
+  "name": "Nawng Hkit",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နောင်ခစ်",
+  "townshipCode": "MMR015314"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea68"
+  },
+  "name": "Nawnghkio",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "နောင်ချို",
+  "townshipCode": "MMR015013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea69"
+  },
+  "name": "Pang Hkam",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ပန်ခမ့်",
+  "townshipCode": "MMR015317"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea6a"
+  },
+  "name": "Pang Yang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ပန်ယန်း",
+  "townshipCode": "MMR015318"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea6b"
+  },
+  "name": "Pangsang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ပန်ဆန်း",
+  "townshipCode": "MMR015005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea6c"
+  },
+  "name": "Pangwaun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ပန်ဝိုင်း",
+  "townshipCode": "MMR015007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea6d"
+  },
+  "name": "Tangyan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "တန့်ယန်း",
+  "townshipCode": "MMR015004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea6e"
+  },
+  "name": "Yawng Lin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ယောင်လင်း",
+  "townshipCode": "MMR015308"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea6f"
+  },
+  "name": "Yin Pang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe951"
+    },
+    "code": "MMR015",
+    "name": "Shan (North)",
+    "nameMm": "ရှမ်းပြည်နယ် (မြောက်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe951"
+  },
+  "nameMm": "ရင်ဖန့်",
+  "townshipCode": "MMR015312"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea70"
+  },
+  "name": "Hopong",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ဟိုပုံး",
+  "townshipCode": "MMR014003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea71"
+  },
+  "name": "Hsihseng",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ဆီဆိုင်",
+  "townshipCode": "MMR014004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea72"
+  },
+  "name": "Kalaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ကလော",
+  "townshipCode": "MMR014005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea73"
+  },
+  "name": "Kunhing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ကွန်ဟိန်း",
+  "townshipCode": "MMR014014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea74"
+  },
+  "name": "Kyethi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ကျေးသီး",
+  "townshipCode": "MMR014015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea75"
+  },
+  "name": "Laihka",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "လဲချား",
+  "townshipCode": "MMR014012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea76"
+  },
+  "name": "Langkho",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "လင်းခေး",
+  "townshipCode": "MMR014018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea77"
+  },
+  "name": "Lawksawk",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ရပ်စောက်",
+  "townshipCode": "MMR014008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea78"
+  },
+  "name": "Loilen",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "လွိုင်လင်",
+  "townshipCode": "MMR014011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea79"
+  },
+  "name": "Mawkmai",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "မောက်မယ်",
+  "townshipCode": "MMR014020"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea7a"
+  },
+  "name": "Monghsu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "မိုင်းရှုး",
+  "townshipCode": "MMR014017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea7b"
+  },
+  "name": "Mongkaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "မိုင်းကိုင်",
+  "townshipCode": "MMR014016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea7c"
+  },
+  "name": "Mongnai",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "မိုးနဲ",
+  "townshipCode": "MMR014019"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea7d"
+  },
+  "name": "Mongpan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "မိုင်းပန်",
+  "townshipCode": "MMR014021"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea7e"
+  },
+  "name": "Nansang",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "နမ့်စန်",
+  "townshipCode": "MMR014013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea7f"
+  },
+  "name": "Nyaungshwe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ညောင်ရွှေ",
+  "townshipCode": "MMR014002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea80"
+  },
+  "name": "Pekon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ဖယ်ခုံ",
+  "townshipCode": "MMR014010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea81"
+  },
+  "name": "Pindaya",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ပင်းတယ",
+  "townshipCode": "MMR014006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea82"
+  },
+  "name": "Pinlaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ပင်လောင်း",
+  "townshipCode": "MMR014009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea83"
+  },
+  "name": "Taunggyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "တောင်ကြီး",
+  "townshipCode": "MMR014001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea84"
+  },
+  "name": "Ywangan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe950"
+    },
+    "code": "MMR014",
+    "name": "Shan (South)",
+    "nameMm": "ရှမ်းပြည်နယ် (တောင်)"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe950"
+  },
+  "nameMm": "ရွာငံ",
+  "townshipCode": "MMR014007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea85"
+  },
+  "name": "Bokpyin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "ဘုတ်ပြင်း",
+  "townshipCode": "MMR006010"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea86"
+  },
+  "name": "Dawei",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "ထားဝယ်",
+  "townshipCode": "MMR006001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea87"
+  },
+  "name": "Kawthoung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "ကော့သောင်း",
+  "townshipCode": "MMR006009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea88"
+  },
+  "name": "Kyunsu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "ကျွန်းစု",
+  "townshipCode": "MMR006006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea89"
+  },
+  "name": "Launglon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "လောင်းလုံ",
+  "townshipCode": "MMR006002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea8a"
+  },
+  "name": "Myeik",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "မြိတ်",
+  "townshipCode": "MMR006005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea8b"
+  },
+  "name": "Palaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "ပုလော",
+  "townshipCode": "MMR006007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea8c"
+  },
+  "name": "Tanintharyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "တနင်္သာရီ",
+  "townshipCode": "MMR006008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea8d"
+  },
+  "name": "Thayetchaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "သရက်ချောင်း",
+  "townshipCode": "MMR006003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea8e"
+  },
+  "name": "Yebyu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe948"
+    },
+    "code": "MMR006",
+    "name": "Tanintharyi",
+    "nameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe948"
+  },
+  "nameMm": "ရေဖြူ",
+  "townshipCode": "MMR006004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea8f"
+  },
+  "name": "Ahlone",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "အလုံ",
+  "townshipCode": "MMR013037"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea90"
+  },
+  "name": "Bahan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဗဟန်း",
+  "townshipCode": "MMR013044"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea91"
+  },
+  "name": "Botahtaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဗိုလ်တထောင်",
+  "townshipCode": "MMR013017"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea92"
+  },
+  "name": "Cocokyun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ကိုကိုးကျွန်း",
+  "townshipCode": "MMR013032"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea93"
+  },
+  "name": "Dagon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဒဂုံ",
+  "townshipCode": "MMR013043"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea94"
+  },
+  "name": "Dagon Myothit (East)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
+  "townshipCode": "MMR013020"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea95"
+  },
+  "name": "Dagon Myothit (North)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဒဂုံမြို့သစ်မြောက်ပိုင်း",
+  "townshipCode": "MMR013019"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea96"
+  },
+  "name": "Dagon Myothit (Seikkan)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဒဂုံမြို့သစ်ဆိပ်ကမ်း",
+  "townshipCode": "MMR013021"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea97"
+  },
+  "name": "Dagon Myothit (South)",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဒဂုံမြို့သစ်တောင်ပိုင်း",
+  "townshipCode": "MMR013018"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea98"
+  },
+  "name": "Dala",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဒလ",
+  "townshipCode": "MMR013030"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea99"
+  },
+  "name": "Dawbon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဒေါပုံ",
+  "townshipCode": "MMR013014"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea9a"
+  },
+  "name": "Hlaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "လှိုင်",
+  "townshipCode": "MMR013040"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea9b"
+  },
+  "name": "Hlaingtharya",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "လှိုင်သာယာ",
+  "townshipCode": "MMR013008"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea9c"
+  },
+  "name": "Hlegu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "လှည်းကူး",
+  "townshipCode": "MMR013004"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea9d"
+  },
+  "name": "Hmawbi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "မှော်ဘီ",
+  "townshipCode": "MMR013003"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea9e"
+  },
+  "name": "Htantabin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ထန်းတပင်",
+  "townshipCode": "MMR013006"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0fea9f"
+  },
+  "name": "Insein",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "အင်းစိန်",
+  "townshipCode": "MMR013001"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa0"
+  },
+  "name": "Kamaryut",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ကမာရွတ်",
+  "townshipCode": "MMR013041"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa1"
+  },
+  "name": "Kawhmu",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ကော့မှုး",
+  "townshipCode": "MMR013028"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa2"
+  },
+  "name": "Kayan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ခရမ်း",
+  "townshipCode": "MMR013026"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa3"
+  },
+  "name": "Kungyangon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ကွမ်းခြံကုန်း",
+  "townshipCode": "MMR013029"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa4"
+  },
+  "name": "Kyauktada",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ကျောက်တံတား",
+  "townshipCode": "MMR013033"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa5"
+  },
+  "name": "Kyauktan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ကျောက်တန်း",
+  "townshipCode": "MMR013024"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa6"
+  },
+  "name": "Kyeemyindaing",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ကြည့်မြင်တိုင်",
+  "townshipCode": "MMR013038"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa7"
+  },
+  "name": "Lanmadaw",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "လမ်းမတော်",
+  "townshipCode": "MMR013035"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa8"
+  },
+  "name": "Latha",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "လသာ",
+  "townshipCode": "MMR013036"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaa9"
+  },
+  "name": "Mayangone",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "မရမ်းကုန်း",
+  "townshipCode": "MMR013042"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaaa"
+  },
+  "name": "Mingaladon",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "မင်္ဂလာဒုံ",
+  "townshipCode": "MMR013002"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaab"
+  },
+  "name": "Mingalartaungnyunt",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "မင်္ဂလာတောင်ညွန့်",
+  "townshipCode": "MMR013022"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaac"
+  },
+  "name": "North Okkalapa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "မြောက်ဥက္ကလာပ",
+  "townshipCode": "MMR013012"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaad"
+  },
+  "name": "Pabedan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ပန်းပဲတန်း",
+  "townshipCode": "MMR013034"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaae"
+  },
+  "name": "Pazundaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ပုဇွန်တောင်",
+  "townshipCode": "MMR013016"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaaf"
+  },
+  "name": "Sanchaung",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "စမ်းချောင်း",
+  "townshipCode": "MMR013039"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab0"
+  },
+  "name": "Seikgyikanaungto",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဆိပ်ကြီးခနောင်တို",
+  "townshipCode": "MMR013031"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab1"
+  },
+  "name": "Seikkan",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ဆိပ်ကမ်း",
+  "townshipCode": "MMR013045"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab2"
+  },
+  "name": "Shwepyithar",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ရွှေပြည်သာ",
+  "townshipCode": "MMR013007"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab3"
+  },
+  "name": "South Okkalapa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "တောင်ဥက္ကလာပ",
+  "townshipCode": "MMR013011"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab4"
+  },
+  "name": "Taikkyi",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "တိုက်ကြီး",
+  "townshipCode": "MMR013005"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab5"
+  },
+  "name": "Tamwe",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "တာမွေ",
+  "townshipCode": "MMR013015"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab6"
+  },
+  "name": "Thaketa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "သာကေတ",
+  "townshipCode": "MMR013013"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab7"
+  },
+  "name": "Thanlyin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "သန်လျှင်",
+  "townshipCode": "MMR013023"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab8"
+  },
+  "name": "Thingangyun",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "သင်္ဃန်းကျွန်း",
+  "townshipCode": "MMR013009"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feab9"
+  },
+  "name": "Thongwa",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "သုံးခွ",
+  "townshipCode": "MMR013025"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feaba"
+  },
+  "name": "Twantay",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "တွံတေး",
+  "townshipCode": "MMR013027"
+},
+{
+  "_id": {
+    "$oid": "6abb75156d3437660b0feabb"
+  },
+  "name": "Yankin",
+  "region_doc": {
+    "_id": {
+      "$oid": "6abb75036d3437660b0fe94f"
+    },
+    "code": "MMR013",
+    "name": "Yangon",
+    "nameMm": "ရန်ကုန်ဒေသကြီး"
+  },
+  "region": {
+    "$oid": "6abb75036d3437660b0fe94f"
+  },
+  "nameMm": "ရန်ကင်း",
+  "townshipCode": "MMR013010"
+}]
