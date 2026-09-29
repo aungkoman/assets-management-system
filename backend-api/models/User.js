@@ -22,4 +22,13 @@ userSchema.methods.matchPassword = async function(enteredPassword) {
   return await bcrypt.compare(enteredPassword, this.password);
 };
 
+// Add this to format the JSON output
+userSchema.set('toJSON', {
+    virtuals: true, // Includes the virtual 'id' field
+    transform: (doc, ret) => {
+        delete ret._id; // Removes the original '_id' field
+        delete ret.__v; // Removes the version key (optional, but standard for APIs)
+    }
+});
+
 module.exports = mongoose.model('User', userSchema);

@@ -23,7 +23,7 @@ request:
     - name: userId
       value: 6abb5fd520f09e53fe97ebfb
     - name: locationId
-      value: 6abb6c2d96702fb3a8362bbb
+      value: 6abb836e8ac4c4a2386b55cb
 
 docs:
   content: API endpoints for the User Module (Register, Login, CRUD)

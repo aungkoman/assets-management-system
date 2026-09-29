@@ -15,15 +15,15 @@ http:
       {
         "name": "Main Headquarters",
         "description": "Central office building",
-        "category": "Building",
+        "category": "Building"
         // "township": "REPLACE_WITH_TOWNSHIP_OBJECT_ID",
-        "address": {
-          "street": "123 Main St",
-          "city": "Yangon",
-          "zipCode": "11181",
-          "lat": 16.8,
-          "lng": 96.1
-        }
+      //   "address": {
+      //     "street": "123 Main St",
+      //     "city": "Yangon",
+      //     "zipCode": "11181",
+      //     "lat": 16.8,
+      //     "lng": 96.1
+      //   }
       }
   auth:
     type: bearer

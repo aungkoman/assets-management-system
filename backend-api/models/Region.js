@@ -21,5 +21,12 @@ const regionSchema = new mongoose.Schema({
     type: String 
   }
 }, { timestamps: true });
-
+// Add this to format the JSON output
+regionSchema.set('toJSON', {
+    virtuals: true, // Includes the virtual 'id' field
+    transform: (doc, ret) => {
+        delete ret._id; // Removes the original '_id' field
+        delete ret.__v; // Removes the version key (optional, but standard for APIs)
+    }
+});
 module.exports = mongoose.model('Region', regionSchema);
