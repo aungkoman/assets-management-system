@@ -27,3 +27,8 @@ pagination : null or pagination object
 error : object ( each fileds with array string )
 
 
+## Basic Road Map
+
+- [ ] Basic API 
+- [ ] Docker
+- [ ] Simple API Integration
