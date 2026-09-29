@@ -5,14 +5,16 @@ info:
 
 http:
   method: GET
-  url: "{{baseUrl}}/api/users?page=20&limit=1"
+  url: "{{baseUrl}}/api/users"
   params:
     - name: page
       value: "20"
       type: query
+      disabled: true
     - name: limit
       value: "1"
       type: query
+      disabled: true
   auth:
     type: bearer
     token: "{{token}}"
