@@ -16,3 +16,69 @@ settings:
   followRedirects: true
   maxRedirects: 5
   forwardAuthorizationHeader: false
+
+examples:
+  - name: 401 - Unauthorized
+    request:
+      url: "{{baseUrl}}/api/users/{{userId}}/hard-delete"
+      method: DELETE
+    response:
+      status: 401
+      statusText: Unauthorized
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "94"
+        - name: etag
+          value: W/"5e-uT/Um38sRCZe3Bg/gL4KQo8gZnU"
+        - name: date
+          value: Tue, 29 Sep 2026 06:43:27 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": false,
+            "message": "Not authorized",
+            "error": {
+              "user": [
+                "User not found or deactivated"
+              ]
+            }
+          }
+  - name: 200 - Deleted
+    request:
+      url: "{{baseUrl}}/api/users/{{userId}}/hard-delete"
+      method: DELETE
+    response:
+      status: 200
+      statusText: OK
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "78"
+        - name: etag
+          value: W/"4e-1AOIv3kxP6T27Ud+vNd9wVgS/7Q"
+        - name: date
+          value: Tue, 29 Sep 2026 06:43:46 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": true,
+            "message": "User permanently removed from database",
+            "data": null
+          }

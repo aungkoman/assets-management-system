@@ -14,10 +14,32 @@ http:
     data: |-
       {
         "name": "John Doe",
-        "email": "john@example.com",
+        "email": "john234567@example.com",
         "password": "password123"
       }
   auth: inherit
+
+runtime:
+  scripts:
+    - type: tests
+      code: |-
+        // 1. Parse the JSON response
+        const body = res.getBody();
+
+        // 2. Write a basic test to ensure the login was successful
+        test("Registration successful", function() {
+          expect(res.getStatus()).to.equal(201);
+          expect(body.status).to.be.true;
+        });
+
+        // 3. Extract and save variables if the request succeeds
+        if (body.status === true && body.data) {
+          // Save the token for authentication in other requests
+          bru.setCollectionVar("token", body.data.token);
+          
+          // Save the _id so your GET/PUT/DELETE by ID endpoints work automatically
+          bru.setCollectionVar("userId", body.data._id);
+        }
 
 settings:
   encodeUrl: true
@@ -27,7 +49,7 @@ settings:
   forwardAuthorizationHeader: false
 
 examples:
-  - name: example
+  - name: 201 - Registred
     request:
       url: "{{baseUrl}}/api/users/register"
       method: POST
@@ -68,4 +90,49 @@ examples:
             "name": "John Doe",
             "email": "john@example.com",
             "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYmI1MzNmYjY3YzExNzUwMzc5NjFhZCIsImlhdCI6MTc5MDY2MTQzOSwiZXhwIjoxNzkzMjUzNDM5fQ.lUOilTl_24zA52yMCg_ryoXiu9LW8sXDyln4Fp3yGyE"
+          }
+  - name: 400 - Validation Error
+    request:
+      url: "{{baseUrl}}/api/users/register"
+      method: POST
+      headers:
+        - name: Content-Type
+          value: application/json
+      body:
+        type: json
+        data: |-
+          {
+            "name": "John Doe",
+            "email": "john234567@example.com",
+            "password": "password123"
+          }
+    response:
+      status: 400
+      statusText: Bad Request
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "106"
+        - name: etag
+          value: W/"6a-0gC9ikRs85VYOtNF1lSRQHNXwz0"
+        - name: date
+          value: Tue, 29 Sep 2026 06:53:18 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": false,
+            "message": "Registration failed",
+            "error": {
+              "email": [
+                "User with this email already exists"
+              ]
+            }
           }

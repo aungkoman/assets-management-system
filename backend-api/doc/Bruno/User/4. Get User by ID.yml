@@ -16,3 +16,107 @@ settings:
   followRedirects: true
   maxRedirects: 5
   forwardAuthorizationHeader: false
+
+examples:
+  - name: 500 - userid malformat
+    request:
+      url: "{{baseUrl}}/api/users/6abb5e8d20f09e53fe97ebf"
+      method: GET
+    response:
+      status: 500
+      statusText: Internal Server Error
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "183"
+        - name: etag
+          value: W/"b7-g6ICpHmdYkZOfWL3BV5Q2QlgV5k"
+        - name: date
+          value: Tue, 29 Sep 2026 06:51:37 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": false,
+            "message": "Failed to fetch user",
+            "error": {
+              "server": [
+                "Cast to ObjectId failed for value \"6abb5e8d20f09e53fe97ebf\" (type string) at path \"_id\" for model \"User\""
+              ]
+            }
+          }
+  - name: 404 - user not found
+    request:
+      url: "{{baseUrl}}/api/users/6abb5e8d20f09e53fe97ebfd"
+      method: GET
+    response:
+      status: 404
+      statusText: Not Found
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "56"
+        - name: etag
+          value: W/"38-uj5n9Qr1FlTj45L3py0UVUbVVM0"
+        - name: date
+          value: Tue, 29 Sep 2026 06:51:57 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": false,
+            "message": "User not found",
+            "error": null
+          }
+  - name: 200 - success
+    request:
+      url: "{{baseUrl}}/api/users/6abb5cb0623db3afe3b7846c"
+      method: GET
+    response:
+      status: 200
+      statusText: OK
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "249"
+        - name: etag
+          value: W/"f9-2zRFOa+zq0DxuENeu2mpupZflUw"
+        - name: date
+          value: Tue, 29 Sep 2026 06:52:23 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": true,
+            "message": "User retrieved successfully",
+            "data": {
+              "_id": "6abb5cb0623db3afe3b7846c",
+              "name": "John Doe",
+              "email": "john234@example.com",
+              "isDeleted": false,
+              "createdAt": "2026-09-29T06:37:36.224Z",
+              "updatedAt": "2026-09-29T06:37:36.224Z",
+              "__v": 0
+            }
+          }

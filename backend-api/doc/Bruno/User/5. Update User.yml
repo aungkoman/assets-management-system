@@ -14,7 +14,8 @@ http:
     data: |-
       {
         "name": "John Doe Updated",
-        "email": "john.updated@example.com"
+        "email": "john.updated@example.com",
+        "password" : "newPassword"
       }
   auth:
     type: bearer
@@ -26,3 +27,95 @@ settings:
   followRedirects: true
   maxRedirects: 5
   forwardAuthorizationHeader: false
+
+examples:
+  - name: 200 - updated
+    request:
+      url: "{{baseUrl}}/api/users/{{userId}}"
+      method: PUT
+      headers:
+        - name: Content-Type
+          value: application/json
+      body:
+        type: json
+        data: |-
+          {
+            "name": "John Doe Updated",
+            "email": "john.updated1@example.com",
+            "password" : "newPassword"
+          }
+    response:
+      status: 200
+      statusText: OK
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "157"
+        - name: etag
+          value: W/"9d-bvwesK09NZhxvAPHjW2+j0zssoE"
+        - name: date
+          value: Tue, 29 Sep 2026 06:41:14 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": true,
+            "message": "User updated successfully",
+            "data": {
+              "_id": "6abb5d17623db3afe3b7846e",
+              "name": "John Doe Updated",
+              "email": "john.updated1@example.com"
+            }
+          }
+  - name: 500 - email should be unique
+    request:
+      url: "{{baseUrl}}/api/users/{{userId}}"
+      method: PUT
+      headers:
+        - name: Content-Type
+          value: application/json
+      body:
+        type: json
+        data: |-
+          {
+            "name": "John Doe Updated",
+            "email": "john.updated@example.com",
+            "password" : "newPassword"
+          }
+    response:
+      status: 500
+      statusText: Internal Server Error
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "250"
+        - name: etag
+          value: W/"fa-rDhRahBMi/uBR7zMQSk8Aq5oiBk"
+        - name: date
+          value: Tue, 29 Sep 2026 06:42:38 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": false,
+            "message": "Failed to update user",
+            "error": {
+              "server": [
+                "Plan executor error during update :: caused by :: E11000 duplicate key error collection: assets_management.users index: email_1 dup key: { email: \"john.updated@example.com\" }"
+              ]
+            }
+          }

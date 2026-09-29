@@ -16,3 +16,69 @@ settings:
   followRedirects: true
   maxRedirects: 5
   forwardAuthorizationHeader: false
+
+examples:
+  - name: Deactivated
+    request:
+      url: "{{baseUrl}}/api/users/{{userId}}/soft-delete"
+      method: PATCH
+    response:
+      status: 200
+      statusText: OK
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "69"
+        - name: etag
+          value: W/"45-5iGC05A7+ObNg6upI2y8SgcyOPM"
+        - name: date
+          value: Tue, 29 Sep 2026 06:43:05 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": true,
+            "message": "User successfully deactivated",
+            "data": null
+          }
+  - name: 401 - Unauthorized
+    request:
+      url: "{{baseUrl}}/api/users/{{userId}}/soft-delete"
+      method: PATCH
+    response:
+      status: 401
+      statusText: Unauthorized
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "94"
+        - name: etag
+          value: W/"5e-uT/Um38sRCZe3Bg/gL4KQo8gZnU"
+        - name: date
+          value: Tue, 29 Sep 2026 06:45:11 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": false,
+            "message": "Not authorized",
+            "error": {
+              "user": [
+                "User not found or deactivated"
+              ]
+            }
+          }

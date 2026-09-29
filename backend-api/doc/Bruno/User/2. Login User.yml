@@ -13,10 +13,32 @@ http:
     type: json
     data: |-
       {
-        "email": "john@example.com",
-        "password": "password123"
+        "email": "john.updated1@example.com",
+        "password": "newPassword"
       }
   auth: inherit
+
+runtime:
+  scripts:
+    - type: tests
+      code: |-
+        // 1. Parse the JSON response
+        const body = res.getBody();
+
+        // 2. Write a basic test to ensure the login was successful
+        test("Login successful", function() {
+          expect(res.getStatus()).to.equal(200);
+          expect(body.status).to.be.true;
+        });
+
+        // 3. Extract and save variables if the request succeeds
+        if (body.status === true && body.data) {
+          // Save the token for authentication in other requests
+          bru.setVar("token", body.data.token);
+          
+          // Save the _id so your GET/PUT/DELETE by ID endpoints work automatically
+          bru.setVar("userId", body.data._id);
+        }
 
 settings:
   encodeUrl: true

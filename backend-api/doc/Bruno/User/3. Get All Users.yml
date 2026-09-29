@@ -5,7 +5,14 @@ info:
 
 http:
   method: GET
-  url: "{{baseUrl}}/api/users"
+  url: "{{baseUrl}}/api/users?page=20&limit=1"
+  params:
+    - name: page
+      value: "20"
+      type: query
+    - name: limit
+      value: "1"
+      type: query
   auth:
     type: bearer
     token: "{{token}}"
@@ -16,3 +23,105 @@ settings:
   followRedirects: true
   maxRedirects: 5
   forwardAuthorizationHeader: false
+
+examples:
+  - name: user listing - success
+    request:
+      url: "{{baseUrl}}/api/users?page=2&limit=1"
+      method: GET
+      params:
+        - name: page
+          value: "2"
+          type: query
+        - name: limit
+          value: "1"
+          type: query
+    response:
+      status: 200
+      statusText: OK
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "366"
+        - name: etag
+          value: W/"16e-8MqF9Rc1kbOxrgF9/kzhxdf3TDs"
+        - name: date
+          value: Tue, 29 Sep 2026 06:32:02 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": true,
+            "message": "Users retrieved successfully",
+            "data": [
+              {
+                "_id": "6abb5a50268c801c23b6d42b",
+                "name": "John Doe",
+                "email": "john2@example.com",
+                "isDeleted": false,
+                "createdAt": "2026-09-29T06:27:28.031Z",
+                "updatedAt": "2026-09-29T06:27:28.031Z",
+                "__v": 0
+              }
+            ],
+            "pagination": {
+              "currentPage": 2,
+              "totalPages": 3,
+              "totalItems": 3,
+              "itemsPerPage": 1,
+              "hasNextPage": true,
+              "hasPrevPage": true
+            }
+          }
+  - name: empty user list
+    request:
+      url: "{{baseUrl}}/api/users?page=20&limit=1"
+      method: GET
+      params:
+        - name: page
+          value: "20"
+          type: query
+        - name: limit
+          value: "1"
+          type: query
+    response:
+      status: 200
+      statusText: OK
+      headers:
+        - name: x-powered-by
+          value: Express
+        - name: content-type
+          value: application/json; charset=utf-8
+        - name: content-length
+          value: "184"
+        - name: etag
+          value: W/"b8-ni1G8bU/FGt5Gf2uM/rruwISX24"
+        - name: date
+          value: Tue, 29 Sep 2026 06:34:19 GMT
+        - name: connection
+          value: keep-alive
+        - name: keep-alive
+          value: timeout=5
+      body:
+        type: json
+        data: |-
+          {
+            "status": true,
+            "message": "Users retrieved successfully",
+            "data": [],
+            "pagination": {
+              "currentPage": 20,
+              "totalPages": 3,
+              "totalItems": 3,
+              "itemsPerPage": 1,
+              "hasNextPage": false,
+              "hasPrevPage": true
+            }
+          }

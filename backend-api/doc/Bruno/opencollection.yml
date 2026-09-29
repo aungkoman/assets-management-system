@@ -19,9 +19,9 @@ request:
     - name: baseUrl
       value: http://localhost:3000
     - name: token
-      value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYmI1MmIyZjA5M2Q5MDBlOTY5ZThlYiIsImlhdCI6MTc5MDY2MTMwNywiZXhwIjoxNzkzMjUzMzA3fQ.Adnxx9kRMEAExbr3ISZq0b8ZrH9VsRrsDeWsgim_wWA
+      value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYmI1ZmQ1MjBmMDllNTNmZTk3ZWJmYiIsImlhdCI6MTc5MDY2NDY2MSwiZXhwIjoxNzkzMjU2NjYxfQ.tzsJzuxTGlwkKMDpFwt-DkB8X2VAzpscXtfzLKzJybg
     - name: userId
-      value: 6abb533fb67c1175037961ad
+      value: 6abb5fd520f09e53fe97ebfb
 
 docs:
   content: API endpoints for the User Module (Register, Login, CRUD)
