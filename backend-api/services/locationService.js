@@ -27,7 +27,7 @@ class LocationService {
           path: 'region' // Deep populates the Region schema inside Township
         }
       })
-      .populate('parentId', 'name category')
+      .populate('parent', 'name category')
       .sort({ createdAt: -1 });
   }
 

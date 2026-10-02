@@ -35,7 +35,7 @@ const app = express();
 // For production, specify exact origins
 app.use(cors({
   origin: '*', // Allow all origins for development
-  methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
+  methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE','OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 }));
 

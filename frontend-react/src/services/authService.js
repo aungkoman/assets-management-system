@@ -7,7 +7,7 @@ export const authService = {
   },
 
   login: async (credentials) => {
-    const response = await api.post('/users/login', credentials);
+    const response = await api.post('/users/login', credentials, { skipAuthRedirect: true });
     return response.data;
   },
 

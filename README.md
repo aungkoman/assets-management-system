@@ -80,6 +80,10 @@ All API responses follow a unified format:
 }
 ```
 
+
+mongodump --uri="mongodb://localhost:27017" --db=assets_management --out=.
+
+
 ## Architecture Pattern
 
 The backend follows a layered architecture:

@@ -17,14 +17,21 @@ export const AuthProvider = ({ children }) => {
   }, []);
 
   const login = async (credentials) => {
-    const response = await authService.login(credentials);
-    if (response.status) {
-      localStorage.setItem('token', response.data.token);
-      localStorage.setItem('user', JSON.stringify(response.data));
-      setUser(response.data);
-      return { success: true };
+    try {
+      const response = await authService.login(credentials);
+      if (response.status) {
+        localStorage.setItem('token', response.data.token);
+        localStorage.setItem('user', JSON.stringify(response.data));
+        setUser(response.data);
+        return { success: true };
+      }
+      return { success: false, error: response.error };
+    } catch (error) {
+      return {
+        success: false,
+        error: error.response?.data?.error || { server: [error.message || 'Unable to reach the server'] },
+      };
     }
-    return { success: false, error: response.error };
   };
 
   const register = async (userData) => {

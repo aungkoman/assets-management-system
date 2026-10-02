@@ -26,7 +26,7 @@ const Login = () => {
     if (result.success) {
       navigate('/dashboard');
     } else {
-      setError(result.error?.credentials?.[0] || result.error?.token?.[0] || 'Login failed');
+      setError(result.error?.credentials?.[0] || result.error?.token?.[0] || result.error?.server?.[0] || 'Login failed');
     }
   };
 
