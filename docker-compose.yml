@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: assets_mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: assets_management
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - assets_network
+
+  backend:
+    build:
+      context: ./backend-api
+      dockerfile: Dockerfile
+    container_name: assets_backend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      MONGO_URI: mongodb://mongodb:27017/assets_management
+      PORT: 3000
+      JWT_SECRET: assets_management_secret_key_2024
+      FRONTEND_URL: http://localhost:5173
+    depends_on:
+      - mongodb
+    networks:
+      - assets_network
+
+  frontend:
+    build:
+      context: ./frontend-react
+      dockerfile: Dockerfile
+    container_name: assets_frontend
+    restart: unless-stopped
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_URL: http://localhost:3000/api/v1
+    depends_on:
+      - backend
+    networks:
+      - assets_network
+
+volumes:
+  mongodb_data:
+
+networks:
+  assets_network:
+    driver: bridge

@@ -1,7 +1,11 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const cors = require('cors');
 const userRoutes = require('./routes/userRoutes');
 const locationRoutes = require('./routes/locationRoutes');
+const regionRoutes = require('./routes/regionRoutes');
+const townshipRoutes = require('./routes/townshipRoutes');
+const assetRoutes = require('./routes/assetRoutes');
 require('dotenv').config();
 
 // Apply toJSON transform to ALL schemas globally
@@ -26,6 +30,13 @@ mongoose.set('toObject', {
 
 
 const app = express();
+
+// CORS Configuration
+app.use(cors({
+  origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+  credentials: true,
+}));
+
 app.use(express.json());
 
 // Database Connection
@@ -36,6 +47,9 @@ mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost:27017/assets_mana
 // Mount Routes
 app.use('/api/v1/users', userRoutes);
 app.use('/api/v1/locations', locationRoutes);
+app.use('/api/v1/regions', regionRoutes);
+app.use('/api/v1/townships', townshipRoutes);
+app.use('/api/v1/assets', assetRoutes);
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
